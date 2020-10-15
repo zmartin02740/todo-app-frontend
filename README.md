@@ -12,14 +12,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-In this todo app you can:
+In this todo app you can:<br />
 
-Add new tasks
-View all tasks
-View active tasks
-View completed tasks
-Set a task to completed
-Revert a task to active
-Delete any task
-Delete all completed tasks
+Add new tasks<br />
+View all tasks<br />
+View active tasks<br />
+View completed tasks<br />
+Set a task to completed<br />
+Revert a task to active<br />
+Delete any task<br />
+Delete all completed tasks<br />
 Edit a task body with different text
